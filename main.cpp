@@ -99,6 +99,7 @@ int main()
         age.year--;
     }
 
+    cout << "You lived: " << endl;
     cout << age.year << " " << age.month << " " << age.day << endl;
 
     return 0;
